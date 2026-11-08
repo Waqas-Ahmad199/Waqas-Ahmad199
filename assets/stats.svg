@@ -2,7 +2,7 @@
 <style>.n{font:700 48px Georgia,serif;fill:#f4efe3}.l{font:15px 'Segoe UI',Arial,sans-serif;fill:#9aa9c2}
 .c{opacity:0;animation:u .8s cubic-bezier(.2,.7,.2,1) forwards}@keyframes u{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 .b{width:0;animation:w 1.4s ease-out forwards}@keyframes w{to{width:var(--w)}}</style><g class="c" style="animation-delay:0.0s"><rect x="20" y="20" width="285" height="150" rx="14" fill="#0b1a33" stroke="#d4af37" stroke-opacity=".35"/>
-<text x="44" y="88" class="n">0</text><text x="44" y="116" class="l">Days on GitHub</text>
+<text x="44" y="88" class="n">1</text><text x="44" y="116" class="l">Days on GitHub</text>
 <rect x="44" y="136" width="237" height="4" rx="2" fill="#fff" fill-opacity=".08"/>
 <rect x="44" y="136" height="4" rx="2" fill="#d4af37" class="b" style="--w:0px;animation-delay:0.5s"/></g><g class="c" style="animation-delay:0.18s"><rect x="325" y="20" width="285" height="150" rx="14" fill="#0b1a33" stroke="#d4af37" stroke-opacity=".35"/>
 <text x="349" y="88" class="n">1</text><text x="349" y="116" class="l">Repositories</text>
